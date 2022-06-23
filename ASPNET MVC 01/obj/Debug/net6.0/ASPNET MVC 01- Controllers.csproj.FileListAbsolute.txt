@@ -1,0 +1,28 @@
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\appsettings.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\ASPNET MVC 01- Controllers.staticwebassets.runtime.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\ASPNET MVC 01- Controllers.exe
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\ASPNET MVC 01- Controllers.deps.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\ASPNET MVC 01- Controllers.runtimeconfig.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\ASPNET MVC 01- Controllers.dll
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\ASPNET MVC 01- Controllers.pdb
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.AssemblyInfo.cs
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.RazorAssemblyInfo.cache
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.RazorAssemblyInfo.cs
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\scopedcss\bundle\ASPNET MVC 01- Controllers.styles.css
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\scopedcss\projectbundle\ASPNET MVC 01- Controllers.bundle.scp.css
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.dll
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\refint\ASPNET MVC 01- Controllers.dll
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.pdb
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.genruntimeconfig.cache
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ref\ASPNET MVC 01- Controllers.dll
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\natal\Desktop\Seavus\ASPNET MVC\ASPNET MVC 01- Controllers\obj\Debug\net6.0\ASPNET MVC 01- Controllers.csproj.CopyComplete

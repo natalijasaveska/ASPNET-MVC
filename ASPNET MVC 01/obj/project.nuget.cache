@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjIgaG3ZRXKXcN7M+PYqtOkqOeuwrqf5AkVZXolvk6mvcC1m7+xWRIfdXGGZXNhk2O05Zvdhbg4J3NzCeISeQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\Desktop\\Seavus\\ASPNET MVC\\ASPNET MVC 01- Controllers\\ASPNET MVC 01- Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
