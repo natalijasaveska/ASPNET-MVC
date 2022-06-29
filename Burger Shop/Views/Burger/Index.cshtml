@@ -1,0 +1,13 @@
+﻿
+@using Burger_Shop.Models.ViewModels
+@model BurgerDetailsListViewModel;
+
+
+<h3>BURGERS MENU:</h3>
+
+    @foreach(BurgerDetailsViewModel burger in @Model.Burgers )
+    {
+       @Html.Partial("../Partials/_BurgerMenuInfo", burger);
+
+    }   
+   

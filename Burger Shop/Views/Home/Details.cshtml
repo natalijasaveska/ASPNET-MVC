@@ -1,0 +1,16 @@
+﻿@using Burger_Shop.Models.ViewModels
+@model BurgerDetailsViewModel
+
+<div class = "container" id="homed">
+    <p>
+    <p><h7><i><b>Name : @Model.Name</b></i></h7></p>
+    <p><h7><i>Price : @Model.Price EUR</i></h7></p>
+    <p><h7><i>Grade : @Model.Rating</i></h7></p>
+    <p><h7><i>@Model.Name has fries - @Model.HasFries</i></h7></p>
+    <p></p><h7><i>@Model.Name is vegetarian - @Model.IsVegetarian</i></h7></p>
+ </div>
+     <img style=""  width="300px" height="300px" src =@Model.PhotoUrl />
+     </p>
+
+
+   

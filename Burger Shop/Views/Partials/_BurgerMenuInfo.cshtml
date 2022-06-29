@@ -1,0 +1,13 @@
+﻿@using Burger_Shop.Models.ViewModels
+
+@model BurgerDetailsViewModel;
+</br>
+<a asp-controller="Burger" asp-action="Details" asp-route-id="@Model.Id"><h5>@Model.Name</a> </h5>
+<h7><i><b>Price : @Model.Price EUR</b></i></h7> <br />
+<h7><i>Grade : @Model.Rating</i></h7>
+
+
+
+
+
+

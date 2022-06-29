@@ -1,0 +1,30 @@
+﻿@using Burger_Shop.Models.ViewModels
+@model BurgerListViewModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-3">BURGER BUDDIES</h2>
+    <h4><i>EAT.DRINK.ENJOY</i></h4>
+</div>
+ <div class="col-md-4">
+    <h4 class="text-decoration-underline" class="text-left" id = "h4"><i>FAVORITE BURGERS THIS MONTH:</i></h4>
+    <p class="text-center" id="p"><i><mark>10/10, would smash!</i></mark></p>
+ </div>
+
+@foreach(BurgerViewModel burger in @Model.Burgers )
+{
+    if(burger.Rating == 10)
+    {
+        @Html.Partial("../Partials/_BurgerHomeInfo.cshtml", burger);
+         <div>
+             <a style="padding-left:20px" asp-controller="Home" asp-action="Details" asp-route-id="@burger.Id"><h6>SEE MORE</h6></a>
+         </div>
+    }
+    
+}
+            
+
+

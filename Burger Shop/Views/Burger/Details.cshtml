@@ -1,0 +1,43 @@
+﻿@using Burger_Shop.Models.Domain
+@using Burger_Shop.Models.ViewModels
+@model BurgerDetailsViewModel
+
+ <div class="containerimg">
+        <div class="overlay">
+            <div class="text">
+                    @Model.Name
+                    <p><h6><b><i>Ingredients:</i></b></h6></p>
+                    <ul>
+                    @foreach(Ingredient ingredient in @Model.Ingredients)
+                     {
+                         <li>@ingredient.Name</li>
+                     }
+                     </ul>
+             </div>
+        </div>
+        <img class="menudimg" src=@Model.PhotoUrl width="380px" height="380px"/>
+   </div>
+
+   <div class= "container">
+        <p><h7><i>Burger ID: @Model.Id</i></h7></p>
+        <p><h7><i>Price: @Model.Price</i></h7></p>
+        <p><h7><i>Grade @Model.Rating</i></h7></p>
+        <p><h7><i>This burger is vegetarian: @Model.IsVegetarian</i></h7></p>
+        <p><h7><i>This burger is vegan: @Model.IsVegan</i></h7></p>
+   </div>
+
+
+@*        
+   <div class="menudingr">
+        <p><h6><b><i>Ingredients:</i></b></h6></p>
+       <ul>
+       @foreach(Ingredient ingredient in @Model.Ingredients)
+        {
+            <li>@ingredient.Name</li>
+        }
+        </ul>
+   </div>*@
+
+   
+
+
